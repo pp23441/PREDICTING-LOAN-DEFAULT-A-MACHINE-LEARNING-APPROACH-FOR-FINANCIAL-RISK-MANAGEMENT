@@ -4,6 +4,17 @@ Applying the risk assessment with more precision to determine when a borrower is
 
 # Model Implementation and Evaluation 
 
+  - `Linear Regression`
+  - `Ridge Regression`
+  - `Lasso Regression`
+  - `Random Forest`
+  - `Neural Network`
+
+![image](https://github.com/user-attachments/assets/0c747a4a-3419-431e-ac8b-4638a7f1b99a)
+
+  ![image](https://github.com/user-attachments/assets/6d387d37-1108-44bf-b376-bc8bb1515d11)
+
+
 
 # Conclusion
 
